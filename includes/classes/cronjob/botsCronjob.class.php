@@ -7,7 +7,7 @@
 #
 /** @package 2Moonsbots
  *  @author mimikri <pocco_13@yahoo.de>
- *  @licence MIT
+ *  @licence GNU V3
  *  @version 0.1 */
 require_once 'includes/classes/cronjob/CronjobTask.interface.php';
 class botsCronjob implements CronjobTask

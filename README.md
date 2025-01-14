@@ -1,43 +1,78 @@
-# 2moons-bots
-bots for 2moons browsergame engine
+# 2Moons-Bots
 
-the bots
-what they do
-- each bot gets a fleet, 
-- wich has ress income and fleet income
-- the fleet of each bot lands on a randomly choosen planet of it's own planets
-- when landing it gives it's ress income since the last land on a planet to the planet
-- after a while it will take of to space and leave some of it's ships on the planet
-- the fleets grow and can be shot, if timing is good(hunting gameloop) for worriors, to secure their income
-- the ress are protected with smaller fleet(ress farm gameloop) for smaller players
+## Overview
+This repository provides bot scripts for the 2Moons browser game engine. These bots are designed to enhance the gaming experience by simulating player activity in a server-friendly manner.
 
-variate bot types
-- how much ress contingent ist put to ship type
-- how much percent of shiptype are left on the planets when lift
-- how much of the ress contingent is spend to ress or to ships
-- how long fleets stay in space or on planet
-- different bot types wich bots can be part of
-- diffent fleets for different bottypes
-- multiplicator for first playerpoints as contingent bots get per month
-- relation how much met,deut,cryst is put to the planets
+### Features of Bots
+- **Fleet Management**: Each bot manages a fleet with resource and income generation capabilities.
+- **Planet Interaction**: Fleets land on randomly selected planets owned by the bot, depositing resources since the last landing.
+- **Growth Mechanism**: Fleets grow over time and can be targeted for attacks if timed correctly (hunting game loop).
+- **Resource Protection**: Smaller fleets are used to protect resources on planets from smaller players.
 
-thoughts
-traditionaly bots try to mimic other players.
-this bots have an other aproach.
-they are as server friendly as possible.
-simplifying all steps a bot would do and
-they aim to provide a gameloop rather then mimic other players
+### Variations in Bot Types
+Bots can be customized with various parameters:
+- Resource allocation per ship type.
+- Percentage of ships left on planets upon lift-off.
+- Distribution of resources between production and ship building.
+- Duration of fleet stays in space or on a planet.
+- Different bot types and associated fleets.
+- Multipliers for first player points as bots gain resource contingents each month based on first players points.
+- Ratio of resource distribution among metal, deuterium, and crystal and ships.
 
-installing the bots
-copy cronjob and installer, 
-start installer
-- make is_bot flags in user and planet table(important for adminpanel, to easyer get botplanets,without making too much preasure on the db)
-- make inicial bot tables(with bot types includes but not bots)
-- make bots and enter id into bots_table
-- set bots ships arrays
-- clear planets,give research
-- set cron in db
-set link in adm menu
-set class in admin.php
-open admin.php
-make cron in db
+### Approach
+Unlike traditional bots that mimic human players, these bots focus on creating a game loop rather than replicating player behavior. This approach aims to be server-friendly while maintaining an engaging gaming environment.
+
+## Installation
+
+1. **Copy Files**: Copy the bot files into your 2Moons game directory.
+   
+2. **Modify `admin.php`**:
+   Add the following code snippet to handle the bot management page in the admin section:
+    ```php
+    case 'editbots': // New case for bots
+       include_once('includes/pages/adm/ShowEditBotsPage.php'); // Ensure this file exists
+       ShowEditBotsPage();
+       break;
+    ```
+
+3. **Modify `styles/templates/adm/ShowMenuPage.tpl`**:
+   Add a menu entry for bot management in the admin interface:
+   ```html
+   {if allowedTo('ShowEditBotsPage')}
+       <li><a href="?page=editbots" target="Hauptframe">Edit Bots</a></li>
+   {/if}
+   ```
+
+## Usage
+
+- **Admin Interface**: Use the new "Edit Bots" option in the admin menu to manage and configure bots.
+
+### Creating and Managing Bots
+1. **Create a Bot**:
+   - Navigate to the "Edit Bots" page via the admin menu.
+   - Click on the option to create a new bot.
+   - Configure the bot's parameters, such as resource allocation, ship types, and fleet sizes.
+
+2. **Automatic Setup**:
+   - Once a bot is created, all necessary cron jobs and database tables are automatically set up.
+   - The bot will begin its activities immediately after creation.
+
+3. **Bot Activities**:
+   - Initially, the bot will not perform any actions then beeing in space or on planet.
+   - On each land lift circle it gains resoures and ships
+
+Feel free to contribute or modify the bot scripts to better suit your server's needs!
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contributions
+Contributions are welcome! Please submit issues or pull requests if you have improvements or bug fixes.
+  
+## Contact
+For any inquiries, please reach out via the GitHub repository.
+
+---
+
+Enjoy your enhanced 2Moons game experience with these server-friendly bots!
+

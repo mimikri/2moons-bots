@@ -11,14 +11,14 @@ the fleets grow and can be shot, if timing is good(hunting gameloop) for worrior
 the ress are protected with smaller fleet(ress farm gameloop) for smaller players
 
 variate bot types
-1.how much ress contingent ist put to ship type
-2.how much percent of shiptype are left on the planets when lift
-3.how much of the ress contingent is spend to ress or to ships
-4.how long fleets stay in space or on planet
-5.different bot types wich bots can be part of
-6.diffent fleets for different bottypes
-7.multiplicator for first playerpoints as contingent bots get per month
-8.relation how much met,deut,cryst is put to the planets
+- how much ress contingent ist put to ship type
+- how much percent of shiptype are left on the planets when lift
+- how much of the ress contingent is spend to ress or to ships
+- how long fleets stay in space or on planet
+- different bot types wich bots can be part of
+- diffent fleets for different bottypes
+- multiplicator for first playerpoints as contingent bots get per month
+- relation how much met,deut,cryst is put to the planets
 
 thoughts
 traditionaly bots try to mimic other players.

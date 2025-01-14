@@ -1,4 +1,4 @@
-A'Hearn 
+A Hearn 
 AAS 
 AAVSO 
 AMOS
@@ -32,7 +32,7 @@ Abashiri
 Abastumani
 Abbe
 Abbott
-Abdel-Samad
+Abdel Samad
 Abderhalden
 Abdulla
 Abdulrasool
@@ -59,7 +59,7 @@ Abramson
 Abshir
 Abstracta
 Abt
-Abu-Rmaileh
+Abu Rmaileh
 Abukumado
 Abukumagawa
 Abulghazi
@@ -272,8 +272,8 @@ Aksenov
 Aksnes
 Aktsynovia
 Akusekijima
-Al-Biruni
-Al-Khwarismi
+Al Biruni
+Al Khwarismi
 Alagasta
 Alain
 Alainmilsztajn
@@ -441,7 +441,7 @@ Allanrahill
 Alleghenia
 Allegra
 Allen
-Allen-Beach
+Allen Beach
 Allenjanes
 Allentran
 Alleven
@@ -493,7 +493,7 @@ Alu
 Alupka
 Alva
 Alvarez
-Alvarez-Candal
+Alvarez Candal
 Alvema
 Alvensleben
 Alvin
@@ -584,7 +584,7 @@ Amymilne
 Amymoffett
 Amytang
 Amytis
-An-Eefje
+An Eefje
 Anabuki
 Anacardium
 Anacostia
@@ -718,8 +718,8 @@ Annchi
 Anncomins
 Anncooper
 Anndavgui
-Anne-Marie
-Anne-Veronique
+Anne Marie
+Anne Veronique
 Annebronte
 Annefrank
 Anneila
@@ -879,7 +879,7 @@ Ariane
 Aribeda
 Arieso
 Arifawan
-Arii-SooHoo
+Arii SooHoo
 Arimahiroshi
 Arina
 Aristaeus
@@ -998,7 +998,7 @@ Assesse
 Assirelli
 Assisi
 Asta
-Astaf'ev
+Astaf ev
 Astapovich
 Astarte
 Aster
@@ -1058,7 +1058,7 @@ Auclair
 Aude
 Audouze
 Audrey
-Audrey-Lucienne
+Audrey Lucienne
 Audreymeyer
 Audreysimmons
 Audubon
@@ -1136,7 +1136,7 @@ Babazadeh
 Babbage
 Babben
 Babcock
-Babel'
+Babel 
 Babelsberg
 Babette
 Babicka
@@ -1196,7 +1196,7 @@ Bakonybel
 Bakosgaspar
 Bakulev
 Bal
-Bal'mont
+Bal mont
 Balakirev
 Balaklava
 Balakrishnan
@@ -1361,7 +1361,7 @@ Baur
 Bauschinger
 Bautzen
 Bavaria
-Bayefsky-Anand
+Bayefsky Anand
 Bayle
 Bayzoltan
 Bazhenov
@@ -1379,7 +1379,7 @@ Beatty
 Beaufort
 Beauge
 Beauvoir
-Bec-Borsenberger
+Bec Borsenberger
 Beccaria
 Bechini
 Bechmann
@@ -1510,7 +1510,7 @@ Beresford
 Berezov
 Berg
 Bergen op Zoom
-Bergen-Enkheim
+Bergen Enkheim
 Bergengruen
 Berger
 Bergholz
@@ -1534,7 +1534,7 @@ Bernardus
 Bernardwolfe
 Bernasconi
 Bernero
-Berners-Lee
+Berners Lee
 Bernert
 Bernes
 Bernhard
@@ -1840,7 +1840,7 @@ Bombieri
 Bombig
 Bonata
 Bonazzoli
-Bonch-Bruevich
+Bonch Bruevich
 Boncompagni
 Bondar
 Bondia
@@ -1863,7 +1863,7 @@ Bonus
 Boole
 Booth
 Bopp
-Bora-Bora
+Bora Bora
 Borasisi
 Borbala
 Borbona
@@ -2480,7 +2480,7 @@ Caussols
 Cava
 Cavadore
 Cavagna
-Cavaille-Coll
+Cavaille Coll
 Cavaillon
 Cavalieri
 Cavaradossi
@@ -2573,7 +2573,7 @@ Chanal
 Chanarich
 Chandra
 Chang
-Chang'E
+Chang E
 Changchun
 Changjiangcun
 Changshi
@@ -2711,7 +2711,7 @@ Chiminello
 China
 Chinaroonchai
 Chinesewilson
-Ching-Sung Yu
+Ching Sung Yu
 Chingzhu
 Chinmoy
 Chiny
@@ -3148,7 +3148,7 @@ Cyriltyson
 Cyrus
 Czechoslovakia
 Czerny
-D'Haveloose
+D Haveloose
 DNA
 Daandehoop
 Dabramo
@@ -3185,7 +3185,7 @@ Dali
 Dalian
 Daliya
 Dall
-Dalla-Degregori
+Dalla Degregori
 Dallago
 Dallas
 Dalleave
@@ -3269,7 +3269,7 @@ Dato
 Datura
 Daudet
 Daumier
-Daun-Eifel
+Daun Eifel
 Dauria
 Davasobel
 Davebracy
@@ -3498,7 +3498,7 @@ Deridder
 Dermott
 Deronchang
 Deronda
-Dersu-Uzala
+Dersu Uzala
 Derzhavin
 Desagneauxa
 Desai
@@ -3571,7 +3571,7 @@ Digerhuvud
 Digerrojr
 Digne
 Dijon
-Dikan'ka
+Dikan ka
 Dike
 Dillard
 Dillon
@@ -3752,7 +3752,7 @@ Downs
 Doyanrose
 Doylehall
 Dozier
-Dr. G.
+Dr  G 
 Drabble
 Dragesco
 Drago
@@ -3769,7 +3769,7 @@ Drewpinsky
 Dreyfus
 Drobyshevskij
 Drossart
-Droste-Hulshoff
+Droste Hulshoff
 Drozdov
 Drtikol
 Drukar
@@ -4048,7 +4048,7 @@ Elsa
 Elsasser
 Elsschot
 Elst
-Elst-Pizarro
+Elst Pizarro
 Eltigen
 Eluard
 Elvira
@@ -4056,13 +4056,13 @@ Elvis
 Elyna
 Elysehope
 Elysiasegal
-Elyu-Ene
+Elyu Ene
 Emalanushenko
 Emans
 Emanuela
 Emanuelli
 Embla
-Emel'yanov
+Emel yanov
 Emelyanenko
 Emerson
 Emicka
@@ -4309,7 +4309,7 @@ Evelyn
 Evenkia
 Everett
 Everhart
-Evgalvasil'ev
+Evgalvasil ev
 Evgenifedorov
 Evgenij
 Evgenilebedev
@@ -4353,7 +4353,7 @@ Fallersleben
 Fallowfield
 Falorni
 Falta
-Falz-Fein
+Falz Fein
 Fama
 Fanale
 Fanatica
@@ -4364,7 +4364,7 @@ Fangxing
 Fanny
 Fannyhensel
 Fantasia
-Fantin-Latour
+Fantin Latour
 Fanyang
 Fanynka
 Faraday
@@ -4376,7 +4376,7 @@ Faro
 Farpoint
 Farquhar
 Farra
-Farzan-Kashani
+Farzan Kashani
 Fassel
 Fast
 Fatherwilliam
@@ -4438,7 +4438,7 @@ Ferguson
 Fermat
 Fermi
 Fermilab
-Fernand-Roland
+Fernand Roland
 Fernandel
 Fernandonido
 Fernandus
@@ -4447,7 +4447,7 @@ Fernie
 Feronia
 Ferrando
 Ferrari
-Ferraz-Mello
+Ferraz Mello
 Ferreri
 Ferri
 Ferrini
@@ -4494,9 +4494,9 @@ Fiorenza
 Fireman
 Firnberg
 Firneis
-Fischer-Dieskau
+Fischer Dieskau
 Fisher
-Fisher-Ives
+Fisher Ives
 Fisico
 Fitzgerald
 Fitzroy
@@ -4529,7 +4529,7 @@ Florena
 Florence
 Florentina
 Florey
-Floris-Jan
+Floris Jan
 Florya
 Floss
 Flury
@@ -4590,9 +4590,9 @@ Franciseveritt
 Francislee
 Francismuir
 Franck
-Franck-Hertz
+Franck Hertz
 Francksallet
-Francois-Xavier
+Francois Xavier
 Francoisgros
 Francomallia
 Francopacini
@@ -4611,7 +4611,7 @@ Frankherbert
 Frankhill
 Frankhubbard
 Franklederer
-Franklin-Adams
+Franklin Adams
 Franklina
 Franklinken
 Franklopez
@@ -4705,7 +4705,7 @@ Frouard
 Fruen
 Fruge
 Fruits
-Frydek-Mistek
+Frydek Mistek
 Fubini
 Fuchie
 Fuchitatsuo
@@ -4884,7 +4884,7 @@ Gavrilin
 Gavrilov
 Gawain
 Gawlik
-Gay-Lussac
+Gay Lussac
 Gaylefarrar
 Gaywray
 Geake
@@ -5107,7 +5107,7 @@ Gmelin
 Gnadig
 Gnedin
 Gnisvard
-Gobbi-Belcredi
+Gobbi Belcredi
 Goberta
 Godaisan
 Godart
@@ -5171,7 +5171,7 @@ Goodricke
 Gooley
 Gopalan
 Gopasyuk
-Gor'kavyj
+Gor kavyj
 Gorbatskij
 Gorchakov
 Gordonia
@@ -5302,7 +5302,7 @@ Griffioen
 Griffis
 Grigery
 Grignard
-Grigor'ev
+Grigor ev
 Grillparzer
 Grimm
 Grinevia
@@ -5405,7 +5405,7 @@ Gunter
 Gunterseeber
 Gunvor
 Guo
-Guo Shou-Jing
+Guo Shou Jing
 Gurij
 Gurnemanz
 Gurnikovskaya
@@ -5519,7 +5519,7 @@ Hameenlinna
 Hamiltonia
 Hamina
 Hammel
-Hammer-Purgstall
+Hammer Purgstall
 Hammonia
 Hammurabi
 Hampfreeman
@@ -5595,8 +5595,8 @@ Harel
 Haremari
 Hargrave
 Harig
-Harimaya-Bashi
-Harish-Chandra
+Harimaya Bashi
+Harish Chandra
 Harishvemuri
 Harlansmith
 Harleyzhang
@@ -5644,7 +5644,7 @@ Hashikami
 Hashimoto
 Hashitatsu
 Hasler
-Hasler-Gloor
+Hasler Gloor
 Hasse
 Hasslacher
 Hastrup
@@ -5665,7 +5665,7 @@ Hauptmann
 Hausdorff
 Hauserova
 Hausmann
-Haute-Provence
+Haute Provence
 Hautot
 Havana
 Havnia
@@ -6040,7 +6040,7 @@ Hohmann
 Hokema
 Hokkaido
 Hokoon
-Hokule'a
+Hokule a
 Hokusai
 Hokuto
 Hokutosei
@@ -6110,7 +6110,7 @@ Horimasato
 Horkheimer
 Horky
 Hormuthia
-Horn-d'Arturo
+Horn d Arturo
 Horne
 Hornstein
 Horodyskyj
@@ -6126,8 +6126,8 @@ Hortulana
 Hortulus
 Horus
 Hosamu
-Hoshi-no-ie
-Hoshi-no-mura
+Hoshi no ie
+Hoshi no mura
 Hoshide
 Hoshigakubo
 Hoshikawa
@@ -6245,7 +6245,7 @@ Hutsebaut
 Hutton
 Huya
 Huygens
-Huynh-Le
+Huynh Le
 Huziak
 Hvar
 Hveen
@@ -6335,7 +6335,7 @@ Ikemura
 Ikenozenni
 Ikeuchisatoru
 Ikeya
-Iku-Turso
+Iku Turso
 Ikufumi
 Ikumadan
 Ikuookamoto
@@ -6361,7 +6361,7 @@ Imada
 Imago
 Imakiire
 Imatra
-Imbrie-Moore
+Imbrie Moore
 Imelda
 Imhilde
 Imhotep
@@ -6508,7 +6508,7 @@ Iskorosten
 Islandica
 Ismene
 Isnello
-Iso-Heikkila
+Iso Heikkila
 Isobe
 Isobelthompson
 Isoda
@@ -6532,7 +6532,7 @@ Itoh
 Itokawa
 Itsukushima
 Itthipanyanan
-Itting-Enke
+Itting Enke
 Itzigsohn
 Iva
 Ivanbella
@@ -6642,7 +6642,7 @@ Jamestaylor
 Jameswatt
 Jameswu
 Jamierubin
-Jan-Otto
+Jan Otto
 Jana
 Janacek
 Janapittichova
@@ -6726,10 +6726,10 @@ Jayewinkler
 Jayleno
 Jaynethomp
 Jaytee
-Jean-Claude
-Jean-Jacques
-Jean-Loup
-Jean-Luc
+Jean Claude
+Jean Jacques
+Jean Loup
+Jean Luc
 Jeancoester
 Jeangodin
 Jeanhugues
@@ -6837,7 +6837,7 @@ Jetta
 Jewitt
 Jezek
 Jhongda
-Jia-xiang
+Jia xiang
 Jiahegu
 Jiangnan Tianchi
 Jiangxi
@@ -6887,7 +6887,7 @@ Jirotakahashi
 Jitka
 Jizera
 Jizni Cechy
-Jo-Ann
+Jo Ann
 Joachim
 Joan
 Joannaguy
@@ -6910,7 +6910,7 @@ Joeharms
 Joeharrington
 Joeingalls
 Joella
-Joelle-gilles
+Joelle gilles
 Joellewis
 Joeloic
 Joelparker
@@ -7107,7 +7107,7 @@ Juliana
 Julianewman
 Julianhong
 Juliapoje
-Julie-Melissa
+Julie Melissa
 Juliegrady
 Juliekrugler
 Julienicoles
@@ -7159,7 +7159,7 @@ Jyuro
 Jyvaskyla
 KIAM
 KLENOT
-Ka-Dar
+Ka Dar
 Kaali
 Kaarethode
 Kaarina
@@ -7191,7 +7191,7 @@ Kagayayutaka
 Kagekatu
 Kagesuke
 Kageyasu
-Kagiroino-Oka
+Kagiroino Oka
 Kagoshima
 Kaguya
 Kaguyahime
@@ -7319,7 +7319,7 @@ Kant
 Kaohsiung
 Kaokuen
 Kaoru
-Kap'bos
+Kap bos
 Kapaneus
 Kapilrama
 Kapitsa
@@ -7360,7 +7360,7 @@ Karitskaya
 Kariya
 Karkoschka
 Karl Marx
-Karl-Ontjes
+Karl Ontjes
 Karlheinz
 Karlin
 Karljosephine
@@ -7393,7 +7393,7 @@ Kashkashian
 Kasmith
 Kassandra
 Kastalia
-Kastel'
+Kastel 
 Kastner
 Kasuga
 Kataev
@@ -7709,7 +7709,7 @@ Kirian
 Kirigamine
 Kirik
 Kiriko Matsuri
-Kiril-Metodi
+Kiril Metodi
 Kirillavrov
 Kirkdouglas
 Kirkland
@@ -7732,7 +7732,7 @@ Kisohinoki
 Kissel
 Kisslaszlo
 Kissling
-Kita-Kyushu
+Kita Kyushu
 Kitagawa
 Kitahiroshima
 Kitami
@@ -7753,7 +7753,7 @@ Kjeriksson
 Klaasen
 Klacka
 Klagenfurt
-Klages-Mundt
+Klages Mundt
 Klaipeda
 Klarasmi
 Klare
@@ -7768,7 +7768,7 @@ Klein
 Kleinmann
 Kleinrichert
 Kleist
-Klement'ev
+Klement ev
 Klementinum
 Klemola
 Klemperer
@@ -7874,7 +7874,7 @@ Kojitaku
 Kokkola
 Kokoschka
 Koktebelia
-Kol'tsovo
+Kol tsovo
 Kolar
 Kolbe
 Koldewey
@@ -8141,7 +8141,7 @@ Kunitsugu
 Kuniwake
 Kunlun
 Kunming
-Kunz-Hallstein
+Kunz Hallstein
 Kunzak
 Kuopio
 Kuotzuhao
@@ -8217,9 +8217,9 @@ Kyrobinson
 Kyte
 Kythera
 Kyusakamoto
-L'Aquila
-L'Encyclopedie
-L'Obel
+L Aquila
+L Encyclopedie
+L Obel
 LINEAR
 LONEOS
 LPL
@@ -8240,7 +8240,7 @@ Labeyrie
 Labnow
 Labrecque
 Labs
-Lac d'Orient
+Lac d Orient
 Lacadiera
 Lacaille
 Lachat
@@ -8257,7 +8257,7 @@ Laertes
 Laetitia
 Lafayette
 Lafcadio
-Lafer-Sousa
+Lafer Sousa
 Laffan
 Laffra
 Lafiascaia
@@ -8315,7 +8315,7 @@ Landi
 Landolt
 Landstreet
 Lane
-Lane-Cline
+Lane Cline
 Lanejackson
 Langberg
 Langbroek
@@ -8444,7 +8444,7 @@ Leasure
 Leatherman
 Leavitt
 Lebedev
-Lebedev-Kumach
+Lebedev Kumach
 Lebedinskij
 Lebesgue
 Lebofsky
@@ -8578,9 +8578,9 @@ Lev Tolstoj
 Levary
 Levasseur
 Leverrier
-Levi-Civita
-Levi-Montalcini
-Levi-Strauss
+Levi Civita
+Levi Montalcini
+Levi Strauss
 Leviathan
 Levin
 Levison
@@ -8710,7 +8710,7 @@ Linzerag
 Linzexu
 Linzia
 Lioba
-Lion-Stoppato
+Lion Stoppato
 Lionel
 Liouville
 Lipno
@@ -8732,7 +8732,7 @@ Liseleje
 Liselotte
 Lisiguang
 Lisitsa
-List'ev
+List ev
 Liszt
 Litke
 Litomysl
@@ -8805,7 +8805,7 @@ Lonnrot
 Lons
 Loos
 Lopez
-Lopez-Moreno
+Lopez Moreno
 Loral
 Lorbach
 Lorcia
@@ -8856,7 +8856,7 @@ Lowman
 Lowry
 Loyola
 Lozere
-Lozino-Lozinskij
+Lozino Lozinskij
 Luanda
 Lub
 Lubar
@@ -8980,7 +8980,7 @@ Lyka
 Lykaon
 Lyman
 Lynch
-Lynden-Bell
+Lynden Bell
 Lynette
 Lynn
 Lynnecox
@@ -9031,7 +9031,7 @@ Macheret
 Machiavelli
 Machielalberts
 Machin
-Machu-Picchu
+Machu Picchu
 Mackerras
 Mackey
 Maclaurin
@@ -9060,7 +9060,7 @@ Maffei
 Magarach
 Magdalena
 Magdeburg
-Magee-Sauer
+Magee Sauer
 Magellan
 Maggiedelano
 Magion
@@ -9420,7 +9420,7 @@ Maslachkova
 Maslov
 Maslovets
 Maslyakov
-Mason-Dixon
+Mason Dixon
 Masoncole
 Maspalomas
 Massachusetts
@@ -9591,7 +9591,7 @@ McGivney
 McGlasson
 McGlothlin
 McGlynn
-McGraw-Hill
+McGraw Hill
 McHone
 McIntosh
 McIntyre
@@ -9858,10 +9858,10 @@ Mikesandras
 Mikeshepard
 Mikewagner
 Mikhailgrinev
-Mikhailmil'
+Mikhailmil 
 Mikhailov
 Mikhalkov
-Mikhel'son
+Mikhel son
 Mikkeli
 Mikkelkocha
 Mikkilineni
@@ -9906,7 +9906,7 @@ Mimistrobell
 Mimosa
 Minakata
 Minamioda
-Minano-machi
+Minano machi
 Minas Gerais
 Mindeli
 Minenze
@@ -9968,7 +9968,7 @@ Mistral
 Misuzu
 Misuzukaneko
 Mitaka
-Mitake-mura
+Mitake mura
 Mitalithakor
 Mitamasahiro
 Mitani
@@ -9984,7 +9984,7 @@ Mitsumata
 Mitsunori
 Mitsuroohba
 Mitsuru
-Mittag-Leffler
+Mittag Leffler
 Mittal
 Mittlefehldt
 Mitton
@@ -10028,7 +10028,7 @@ Mnesthus
 Mobberley
 Moberg
 Mobius
-Mochihito-o
+Mochihito o
 Mochizuki
 Mocia
 Mockturtle
@@ -10047,7 +10047,7 @@ Moguntia
 Mohler
 Mohorovicic
 Mohr
-Mohr-Gruber
+Mohr Gruber
 Moira
 Moisseiev
 Moivre
@@ -10116,7 +10116,7 @@ Mony
 Moomintroll
 Moons
 Moore
-Moore-Sitterly
+Moore Sitterly
 Mopaku
 Mora
 Morabito
@@ -10189,8 +10189,8 @@ Moynahan
 Mozartia
 Mozhaiskij
 Mozzhorin
-Mr. Spock
-Mr. Tompkins
+Mr  Spock
+Mr  Tompkins
 Mravinskij
 Mrinalini
 Mrkos
@@ -10353,7 +10353,7 @@ Nanavisitor
 Nanayakkara
 Nancita
 Nancy
-Nancy-Lorraine
+Nancy Lorraine
 Nancycarter
 Nancychabot
 Nancygreen
@@ -10533,7 +10533,7 @@ Nezarka
 Nezhdanova
 Nezval
 Nguyen
-Nguyen-McCarty
+Nguyen McCarty
 Ngwaikin
 Nha
 Nhannguyen
@@ -10594,7 +10594,7 @@ Niinoama
 Nijhawan
 Nijisseiki
 Nijo
-Nikdollezhal'
+Nikdollezhal 
 Nike
 Nikhilas
 Nikhilgupta
@@ -10605,11 +10605,11 @@ Nikitin
 Nikko
 Niklauswirth
 Niknesterov
-Nikol'skij
+Nikol skij
 Nikolaev
 Nikolaimedtner
 Nikolajivanov
-Nikolajvasil'ev
+Nikolajvasil ev
 Nikolaylaverov
 Nikolova
 Nikonov
@@ -10638,7 +10638,7 @@ Nirenberg
 Nireus
 Nischaykumar
 Nishashah
-Nishi-koen
+Nishi koen
 Nishiharima
 Nishiinoue
 Nishiizumi
@@ -10692,7 +10692,7 @@ Noniearora
 Nonna
 Noordung
 Nora
-Noragal'
+Noragal 
 Noraxu
 Nord
 Nordenmarkia
@@ -10761,7 +10761,7 @@ Nurnberg
 Nusamaibashi
 Nusl
 Nussbaum
-Nusslein-Volhard
+Nusslein Volhard
 Nuwa
 Nyanza
 Nyberg
@@ -10774,14 +10774,14 @@ Nyrola
 Nysa
 Nyukasayama
 Nyx
-O'Brien
-O'Connell
-O'Connor
-O'Dorney
-O'Higgins
-O'Keefe
-O'Meara
-O'Steen
+O Brien
+O Connell
+O Connor
+O Dorney
+O Higgins
+O Keefe
+O Meara
+O Steen
 OAFA
 ODAS
 OISCA
@@ -10807,7 +10807,7 @@ Obsfabra
 Obu
 Obukhova
 Oburka
-Ocasio-Cortez
+Ocasio Cortez
 Ocastron
 Occhialini
 Occidental
@@ -10897,7 +10897,7 @@ Oken
 Okhotsk
 Okhotsymskij
 Okiko
-Okina-Ouna
+Okina Ouna
 Okinawa
 Oklahoma
 Okuda
@@ -10912,7 +10912,7 @@ Okushiri
 Okutama
 Okyrhoe
 Okyudo
-Ol'gusha
+Ol gusha
 Olaheszter
 Olathe
 Olaus Magnus
@@ -10993,7 +10993,7 @@ Opportunity
 Ops
 Orangia
 Oranienstein
-Oranje-Nassau
+Oranje Nassau
 Oravetz
 Orbinskij
 Orchis
@@ -11145,7 +11145,7 @@ Painleva
 Pajdusakova
 Pajka
 Pakhmutova
-Pal'chikov
+Pal chikov
 Pala
 Palach
 Palacky
@@ -11307,7 +11307,7 @@ Pattillo
 Pattybrown
 Patwalker
 Paul
-Paul-Andre
+Paul Andre
 Paula
 Paulallen
 Paulandrew
@@ -11353,7 +11353,7 @@ Pawlowia
 Pawona
 Pax
 Payette
-Payne-Gaposchkin
+Payne Gaposchkin
 Payton
 Pazden
 Pazin
@@ -11493,7 +11493,7 @@ Petignat
 Petiska
 Petit
 Petofi
-Petra-Pepi
+Petra Pepi
 Petrarca
 Petrbondy
 Petrginz
@@ -11576,7 +11576,7 @@ Piani
 Pianoro
 Piatra Neamt
 Piazzia
-Pic-du-Midi
+Pic du Midi
 Picander
 Picard
 Picasso
@@ -11901,7 +11901,7 @@ Probitas
 Procol Harum
 Prokhorov
 Prokne
-Prokof'ev
+Prokof ev
 Prokofeana
 Prokopovich
 Promachus
@@ -11997,7 +11997,7 @@ Quanzhou
 Quaoar
 Quarenghi
 Quebec
-Queen's
+Queen s
 Queloz
 Quercus
 Quero
@@ -12018,7 +12018,7 @@ Quito
 Qumran
 Quqinyue
 Qwerty
-Ra-Shalom
+Ra Shalom
 Raab
 Raahe
 Rabe
@@ -12371,7 +12371,7 @@ Rilke
 Rimavska Sobota
 Rimbaud
 Rimito
-Rimskij-Korsakov
+Rimskij Korsakov
 Rinaketty
 Rinako
 Rinaldi
@@ -12595,7 +12595,7 @@ Rote Kapelle
 Roth
 Rothenberg
 Rotraut
-Rottman-Yang
+Rottman Yang
 Rottmann
 Rou
 Roucarie
@@ -12679,7 +12679,7 @@ Runge
 Runk
 Runrun Shaw
 Ruoyijiang
-Ruperto-Carola
+Ruperto Carola
 Rupertwildt
 Ruppina
 Ruriko
@@ -12752,7 +12752,7 @@ Sabinagarroni
 Sabine
 Sabinin
 Sabrina
-Sabrina-John
+Sabrina John
 Sacajawea
 Sachiko
 Sachs
@@ -12790,12 +12790,12 @@ Saijo
 Saijokeiichi
 Saimaa
 Saint Michel
-Saint-Aignan
-Saint-Exupery
-Saint-Marys
-Saint-Saens
-Saint-Veran
-Sainte-Colombe
+Saint Aignan
+Saint Exupery
+Saint Marys
+Saint Saens
+Saint Veran
+Sainte Colombe
 Saitama
 Saito
 Saji
@@ -12870,7 +12870,7 @@ Samsagan
 Samthurman
 Samuele
 Samuelhowell
-Samus'
+Samus 
 Samwestfall
 San Cassiano
 San Diego
@@ -12879,11 +12879,11 @@ San Juan
 San Marcello
 San Martin
 San Pedro
-Sanabria-Rivera
+Sanabria Rivera
 Sanaloria
 Sanaraoof
 Sanchez
-Sanchez-Claudio
+Sanchez Claudio
 Sandage
 Sanders
 Sandler
@@ -12899,14 +12899,14 @@ Sanenobufukui
 Sanford
 Sangerhausen
 Sanguin
-Sankt-Stephan
+Sankt Stephan
 Sannaimura
 Sanner
 Sano
 Sanpoloamosciano
 Sansaturio
 Sanshui
-Sansyu-Asuke
+Sansyu Asuke
 Santa
 Santagata
 Santana
@@ -12914,7 +12914,7 @@ Santaro
 Santhikodali
 Santiago
 Santini
-Santini-Aichl
+Santini Aichl
 Santoka
 Santomurakami
 Santorini
@@ -12975,7 +12975,7 @@ Satchmo
 Sather
 Satie
 Satinsky
-Sato-Norio
+Sato Norio
 Satokosuka
 Satomimura
 Satoru
@@ -13204,7 +13204,7 @@ Seifert
 Seiichikanno
 Seiichisato
 Seiicyoshida
-Seijin-Sanso
+Seijin Sanso
 Seilandfarm
 Seili
 Seillier
@@ -13228,7 +13228,7 @@ Sekihokutouge
 Sekine
 Sekitakakazu
 Sekora
-Sel'vinskij
+Sel vinskij
 Selenali
 Selene
 Seleucus
@@ -13275,7 +13275,7 @@ Serenamccalla
 Serendip
 Serganov
 Sergebaudo
-Sergeev-Censkij
+Sergeev Censkij
 Sergej
 Sergerasimov
 Sergestus
@@ -13372,7 +13372,7 @@ Shayestorm
 Shchedrin
 Shcheglov
 Shcherbakovia
-Shcherban'
+Shcherban 
 Shearer
 Sheba
 Shedletsky
@@ -13429,7 +13429,7 @@ Shijimi
 Shikanosima
 Shiki
 Shikoku
-Shikoku-karst
+Shikoku karst
 Shikokutenkyo
 Shilling
 Shilov
@@ -13474,9 +13474,9 @@ Shirvindt
 Shishkin
 Shivanisud
 Shiwaku
-Shizu-Mao
+Shizu Mao
 Shizukagozen
-Shizutani-Kou
+Shizutani Kou
 Shklovskij
 Shkodrov
 Shkuratov
@@ -13514,7 +13514,7 @@ Shubhrosaha
 Shuji
 Shukla
 Shukshin
-Shul'zhenko
+Shul zhenko
 Shulga
 Shulnazaria
 Shumarinaiko
@@ -13601,7 +13601,7 @@ Simferopol
 Simmons
 Simoeisios
 Simohiro
-Simon-Garfunkel
+Simon Garfunkel
 Simona
 Simonek
 Simonelli
@@ -13754,9 +13754,9 @@ Solnhofen
 Solokhin
 Solomin
 Solon
-Solov'yanenko
+Solov yanenko
 Solovaya
-Solovjev-Sedoj
+Solovjev Sedoj
 Solovjova
 Solti
 Solvay
@@ -13809,7 +13809,7 @@ Soushiyou
 Souten
 South Dakota
 Sova
-Soyuz-Apollo
+Soyuz Apollo
 Spacesora
 Spacewatch
 Spadolini
@@ -14402,7 +14402,7 @@ Tancredi
 Tanegashima
 Tanemahuta
 Tanete
-Tang-Quan
+Tang Quan
 Tanga
 Tangshan
 Tangtisheng
@@ -14533,7 +14533,7 @@ Tenmu
 Tennyo
 Tenojoki
 Tenpyou
-Tensho-kan
+Tensho kan
 Tentaikojo
 Tenzing
 Tenzinyama
@@ -14902,7 +14902,7 @@ Totoro
 Tottori
 Totziens
 Toudono
-Toulouse-Lautrec
+Toulouse Lautrec
 Tournefort
 Toussaint
 Toutatis
@@ -14945,7 +14945,7 @@ Trenker
 Trentman
 Treshnikov
 Tresini
-Tret'yakov
+Tret yakov
 Trettel
 Trettenero
 Trevanvoorth
@@ -14994,7 +14994,7 @@ Tsap
 Tsarevsky
 Tscharnuter
 Tselina
-Tsenaat'a'i
+Tsenaat a i
 Tsengiching
 Tsereteli
 Tsesevich
@@ -15154,7 +15154,7 @@ Ukko
 Ukraina
 Ukyounodaibu
 Ul
-Ul'yanin
+Ul yanin
 Ulanova
 Ulfbirgitta
 Ulferika
@@ -15222,7 +15222,7 @@ Urumqi
 Urysohn
 Urzidil
 Ushakov
-Usman'grad
+Usman grad
 Ussery
 Ustinov
 Usuda
@@ -15245,7 +15245,7 @@ Uwetreske
 Uwontario
 Uyttenhove
 Uzbekistania
-V'yus
+V yus
 VATT
 VOC
 Vaasa
@@ -15322,7 +15322,7 @@ Vand
 Vandanashiva
 Vanderlinden
 Vandervelden
-Vanessa-Mae
+Vanessa Mae
 Vanessaspini
 Vange
 Vangelis
@@ -15460,7 +15460,7 @@ Veteraniya
 Veverka
 Vian
 Vibeke
-Vibert-Douglas
+Vibert Douglas
 Vibhuti
 Vibilia
 Vicars
@@ -15502,14 +15502,14 @@ Viktorbykov
 Viktorfischl
 Viktorov
 Vikuznetsov
-Vil'bakirov
+Vil bakirov
 Vilardi
 Vilas
 Vilen
 Vilgusova
 Vilho
 Viljev
-Villa-Lobos
+Villa Lobos
 Villarreal
 Villecroze
 Villedepompey
@@ -15590,12 +15590,12 @@ Vladimirskij
 Vladishukhov
 Vladisvyat
 Vladplatonov
-Vladvasil'ev
+Vladvasil ev
 Vladvysotskij
 Vladzakharov
 Vltava
 Vnukov
-Vodop'yanova
+Vodop yanova
 Voegtli
 Vogel
 Vogelsberg
@@ -15605,12 +15605,12 @@ Vogtland
 Voigt
 Voitkevich
 Vojislava
-Vojno-Yasenetsky
+Vojno Yasenetsky
 Vojtech
 Vokrouhlicky
 Volfango
 Volga
-Volgo-Don
+Volgo Don
 Volk
 Volkonskaya
 Volkov
@@ -15642,7 +15642,7 @@ Vorontsova
 Voronveliya
 Vorovich
 Vosges
-Voskovec-Werich
+Voskovec Werich
 Voss
 Vossenkuhl
 Votroubek
@@ -15667,7 +15667,7 @@ Vyssi Brod
 Vyssotsky
 WIYN
 Wabash
-Wabi-Sabi
+Wabi Sabi
 Wachholz
 Wachmann
 Wacker
@@ -15811,7 +15811,7 @@ Welcker
 Weller
 Wellnitz
 Wells
-Wellton-Persson
+Wellton Persson
 Welther
 Welty
 Welzenbach
@@ -15944,7 +15944,7 @@ Willjaysun
 Willnelson
 Willpatrick
 Wilson
-Wilson-Harrington
+Wilson Harrington
 Wimberly
 Wimfroger
 Wimhermans
@@ -16020,7 +16020,7 @@ Wright
 Wronski
 Wrubel
 Wu
-Wu Chien-Shiung
+Wu Chien Shiung
 Wubbena
 Wudayou
 Wudia
@@ -16051,7 +16051,7 @@ Xenocrates
 Xenophanes
 Xenophon
 Xerxes
-Xi'an
+Xi an
 Xiajunchao
 Xianglupeak
 Xiaomengzeng
@@ -16094,7 +16094,7 @@ Yalemichaels
 Yalow
 Yalta
 Yamada
-Yamada-Houkoku
+Yamada Houkoku
 Yamagata
 Yamagatashi
 Yamaguchi
@@ -16111,13 +16111,13 @@ Yamaoka
 Yamasaki
 Yamasakimakoto
 Yamatai
-Yamatano-orochi
+Yamatano orochi
 Yamatenclub
 Yamatotakeru
 Yamaura
 Yamehoshinokawa
 Yamwingwah
-Yan'an
+Yan an
 Yanagida
 Yanai
 Yanaikeizo
@@ -16146,7 +16146,7 @@ Yarilo
 Yarkovsky
 Yaronika
 Yaroshenko
-Yaroslavl'
+Yaroslavl 
 Yashin
 Yasuda
 Yasue
@@ -16264,7 +16264,7 @@ Yoshitsune
 Yoshiwatiso
 Yoshiya
 Yoshiyuki
-Yoshkar-Ola
+Yoshkar Ola
 Yosukeyoshida
 Yotakanashi
 Yotsubashi
@@ -16412,7 +16412,7 @@ Zelkowitz
 Zellner
 Zellyfry
 Zelter
-Zembsch-Schreve
+Zembsch Schreve
 Zemka
 Zemtsov
 Zenbei
@@ -16500,7 +16500,7 @@ Zrzavy
 Zsazsa
 Zselic
 Zsigmond
-Zu Chong-Zhi
+Zu Chong Zhi
 Zuaboni
 Zubaida
 Zuber

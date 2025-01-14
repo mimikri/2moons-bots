@@ -23,55 +23,9 @@ class botsCronjob implements CronjobTask
         #---------------------------once(every 2592000 seconds)-----------------------------------------
         #making it monthly gives some time to react if errors in the universe happend, like first player point very high, also it makes it easyer to determine how much ress comes into the uni, it's mainly for measurement reasons
         if ($bot_setting[0]['last_set'] + 2592000 < time()) { //since they shall start synced, [0] is representative
-            foreach ($bot_setting as $key => $bot_setting1) {
-
-                $number_of_bots = count($db->select('select id as number_of_bots from '. DB_PREFIX .'bots where bot_type = :id_botsetting', [':id_botsetting' => $bot_setting1['id']]));
-                $number_of_bots_factor = $number_of_bots == 0 ? 0 : (1 / $number_of_bots);
-                $month_in_seconds = 2592000;
-                $monthly_resspoints = $first_player_points * $bot_setting1['first_points_multiplicator'];
-                $monthly_resspoints_for_ships = $monthly_resspoints * (1 - $bot_setting1['ress_factor']); #1-ressfactor is the factor for the ships
-                #$ress_for_each_ship_type = ($monthly_resspoints_for_ships / count($bot_setting1['ships_array']));
-                $montly_resspoints_for_ress = $monthly_resspoints * $bot_setting1['ress_factor'];
-                $real_resspoints_for_ships = 0;
-                foreach ($bot_setting1['ships_array'] as $key => $ship) {
-                    $ship_contingent_temp = ((($monthly_resspoints_for_ships * $ship['factor'] * $number_of_bots_factor) / $ship['shipvalue'])); #monthly available ships for each botfleet, factor reduces the ress dedicated to each shiptype
-                    $montly_resspoints_for_ress += floor(($monthly_resspoints_for_ships * $ship['factor'] * $number_of_bots_factor) - ($ship_contingent_temp * $ship['shipvalue']));
-                    $bot_setting1['ships_array'][$key]['per_second'] = $ship_contingent_temp <= 0 ? 0 : ($ship_contingent_temp / $month_in_seconds);
-                    $bot_setting1['ships_array'][$key]['contingent'] = $ship_contingent_temp * $number_of_bots;
-                    $bot_setting1['ships_array'][$key]['contingent_used'] = 0;
-                    $real_resspoints_for_ships += $bot_setting1['ships_array'][$key]['contingent'] * $ship['shipvalue'];
-                }
-                $montly_resspoints_for_ress += ($monthly_resspoints_for_ships - $real_resspoints_for_ships);#the monthly resspoits differ a liitle bit from the original, cause of rounding errors?
-                $db->update(
-                    'update '. DB_PREFIX .'bot_setting set 
-                    metal_per_second = :metal_per_second, 
-                    crystal_per_second = :crystal_per_second, 
-                    deuterium_per_second = :deuterium_per_second , 
-                    last_set = :last_set , 
-                    `ress_contingent` = :ress_contingenta ,
-                    `ress_ships_contingent` = :ress_ships_contingent ,
-                    `full_contingent` = :full_contingenta , 
-                    `ships_array` = :ships_array , 
-                    `ress_contingent_used` = 0 ,
-                    `ress_ships_contingent_used` = 0 , 
-                    `full_contingent_used` = 0 ,
-                    `number_of_bots` = :number_of_bots
-                    where id = :bot_type',
-                    [
-                        ':metal_per_second' => $montly_resspoints_for_ress <= 0 ? 0 : (($montly_resspoints_for_ress * $bot_setting1['ress_value_metal']) / $month_in_seconds) * $number_of_bots_factor,
-                        //per second per bot
-                        ':crystal_per_second' => $montly_resspoints_for_ress <= 0 ? 0 : (($montly_resspoints_for_ress * $bot_setting1['ress_value_crystal']) / $month_in_seconds) * $number_of_bots_factor,
-                        ':deuterium_per_second' => $montly_resspoints_for_ress <= 0 ? 0 : (($montly_resspoints_for_ress * $bot_setting1['ress_value_deuterium']) / $month_in_seconds) * $number_of_bots_factor,
-                        ':ress_contingenta' => $montly_resspoints_for_ress,
-                        ':ress_ships_contingent' => $real_resspoints_for_ships,
-                        ':full_contingenta' => $monthly_resspoints,
-                        ':ships_array' => serialize($bot_setting1['ships_array']),
-                        ':bot_type' => $bot_setting1['id'],
-                        ':number_of_bots' => $number_of_bots,
-                        ':last_set' => time(),
-                    ]
-                );
-            }
+            include_once('includes/classes/class.BotManager.php');
+            $botManager = new BotManager();
+            $botManager->reset_contingents();
         } else {
 
             #--------------------------------handling fleet activity--------------------------------------------------

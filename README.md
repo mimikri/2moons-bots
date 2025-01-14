@@ -64,7 +64,7 @@ Unlike traditional bots that mimic human players, these bots focus on creating a
 Feel free to contribute or modify the bot scripts to better suit your server's needs!
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL3 License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributions
 Contributions are welcome! Please submit issues or pull requests if you have improvements or bug fixes.

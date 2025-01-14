@@ -3,12 +3,13 @@ bots for 2moons browsergame engine
 
 the bots
 what they do
-each bot gets a fleet, wich has ress income and fleet income
-the fleet of each bot lands on a randomly choosen planet of it's own planets
-when landing it gives it's ress income since the last land on a planet to the planet
-after a while it will take of to space and leave some of it's ships on the planet
-the fleets grow and can be shot, if timing is good(hunting gameloop) for worriors, to secure their income
-the ress are protected with smaller fleet(ress farm gameloop) for smaller players
+- each bot gets a fleet, 
+- wich has ress income and fleet income
+- the fleet of each bot lands on a randomly choosen planet of it's own planets
+- when landing it gives it's ress income since the last land on a planet to the planet
+- after a while it will take of to space and leave some of it's ships on the planet
+- the fleets grow and can be shot, if timing is good(hunting gameloop) for worriors, to secure their income
+- the ress are protected with smaller fleet(ress farm gameloop) for smaller players
 
 variate bot types
 - how much ress contingent ist put to ship type

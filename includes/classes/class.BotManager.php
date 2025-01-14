@@ -195,9 +195,13 @@ public function change_bot_type($userid, $bot_type) {
     // Make a user a bot and add bot capabilities
     public function createBot($number_of_bots = 1, $number_of_planets = 0) {
         global $config;
-        //set, jsut in case it does not exist
-        $this->db->query('ALTER TABLE `'. DB_PREFIX .'users` ADD COLUMN IF NOT EXISTS `is_bot` INT DEFAULT 0;');
-        $this->db->query('ALTER TABLE `'. DB_PREFIX .'planets` ADD COLUMN IF NOT EXISTS `is_bot` INT DEFAULT 0;');
+            // Add the 'is_bot' column if it doesn't exist and create an index on it for the 'users' table
+            $this->db->query('ALTER TABLE `' . DB_PREFIX . 'users` ADD COLUMN IF NOT EXISTS `is_bot` INT DEFAULT 0;');
+            $this->db->query('CREATE INDEX IF NOT EXISTS idx_users_is_bot ON `' . DB_PREFIX . 'users` (`is_bot`);');
+
+            // Add the 'is_bot' column if it doesn't exist and create an index on it for the 'planets' table
+            $this->db->query('ALTER TABLE `' . DB_PREFIX . 'planets` ADD COLUMN IF NOT EXISTS `is_bot` INT DEFAULT 0;');
+            $this->db->query('CREATE INDEX IF NOT EXISTS idx_planets_is_bot ON `' . DB_PREFIX . 'planets` (`is_bot`);');
 
         //set the bots tables if not set
         $this->db->query('
